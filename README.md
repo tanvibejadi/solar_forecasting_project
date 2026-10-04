@@ -1,4 +1,4 @@
-# Solar Forecasting Using HGAT + GRU
+# AI‑Driven Solar Forecasting with HGAT + GRU
 
 ## Executive Summary
 This project delivers an advanced solution for **solar power generation forecasting** using a **Hybrid Graph Attention Network (HGAT) combined with GRU architecture**.  
