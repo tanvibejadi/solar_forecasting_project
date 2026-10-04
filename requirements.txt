@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+shap
+scikit-learn
+pandas
+numpy
+streamlit
+matplotlib
